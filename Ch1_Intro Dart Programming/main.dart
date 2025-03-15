@@ -6,14 +6,16 @@ var Name = "PPUA2";
 
 var NAME = "PPUA3";
 
+var x = 10;
+
 void main() {
   // if (name == "PPUA") {
   //   print("This is match compare");
   // }
 
-  // print("Welcome to : $name");
-  // print("Welcome to : $Name");
-  // print("Welcome to : $NAME");
+  print("Welcome to : $name");
+  print("Welcome to : $Name");
+  print("Welcome to : $NAME");
 
   // // This comment this single-line
   // int a = 1 + 1;
@@ -36,6 +38,6 @@ void main() {
   // String input = stdin.readLineSync()!;
   // print("Name :  $input");
 
-  print('Hello world');
-  print("Welcome to PPUA");
+  // print('Hello world');
+  // print("Welcome to PPUA");
 }
