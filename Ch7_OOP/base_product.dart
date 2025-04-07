@@ -1,0 +1,3 @@
+class BaseProduct {
+  String? name;
+}
